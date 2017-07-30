@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="CentOS" uploadOnCheckin="59ab933e-7b13-48dd-ad5b-1d5f172da0a9">
+    <serverData>
+      <paths name="CentOS">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="CentOS" />
+  </component>
+</project>

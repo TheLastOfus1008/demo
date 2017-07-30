@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="59ab933e-7b13-48dd-ad5b-1d5f172da0a9" name="CentOS" url="http://192.168.0.109">
+        <fileTransfer host="192.168.0.109" port="22" rootFolder="/usr/local/nginx/html/demo" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
