@@ -7,3 +7,6 @@
  */
 
 phpinfo();
+
+
+echo 1;
