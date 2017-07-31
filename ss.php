@@ -2,9 +2,5 @@
 /**
  * Created by PhpStorm.
  * User: Administrator
- * Date: 2017/7/30
- * Time: 23:45
+ * Datetime: 2017/7/31 9:26
  */
-
-phpinfo();
-echo 1;

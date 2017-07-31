@@ -2,13 +2,16 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="59ab933e-7b13-48dd-ad5b-1d5f172da0a9" name="CentOS" url="http://192.168.0.109">
+      <webServer id="59ab933e-7b13-48dd-ad5b-1d5f172da0a9" name="CentOS" url="http://192.168.0.109:8080/demo">
         <fileTransfer host="192.168.0.109" port="22" rootFolder="/usr/local/nginx/html/demo" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
+      </webServer>
+      <webServer id="00d49091-e57d-4618-a61f-9b0e54a6ec9f" name="nginx" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="D:\wamp\www" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
